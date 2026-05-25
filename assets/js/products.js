@@ -17,7 +17,7 @@ window.TINYTRAIL_PRODUCTS = [
     age: "Ages 4 to 6",
     size: "16 inch",
     color: "Sunset Orange",
-    image: "assets/images/bike-16.png",
+    image: "assets/images/bike-12.png",
     description: "Our main children’s bike with a lightweight frame, stable training wheels, and a parent-friendly setup.",
     features: ["Lightweight steel frame", "Removable training wheels", "Chain guard", "Front basket ready"]
   },
@@ -28,7 +28,7 @@ window.TINYTRAIL_PRODUCTS = [
     age: "Ages 6 to 9",
     size: "20 inch",
     color: "Trail Blue",
-    image: "assets/images/bike-20.png",
+    image: "assets/images/bike-12.png",
     description: "A bigger bike for growing riders who are ready for longer neighborhood rides.",
     features: ["Hand brake and coaster brake", "Comfort seat", "Stable wide tires", "Reflector set"]
   }
