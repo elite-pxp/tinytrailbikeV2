@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="96" viewBox="0 0 360 96" role="img" aria-labelledby="title desc">
+<title>TinyTrail Bikes logo</title><desc>Playful children's bike shop logo</desc>
+<rect width="360" height="96" rx="24" fill="#ffffff"/>
+<circle cx="52" cy="56" r="20" fill="#ff7a1a"/>
+<circle cx="118" cy="56" r="20" fill="#ff7a1a"/>
+<path d="M52 56 L82 28 L118 56 M82 28 L95 56 M72 56 H98" fill="none" stroke="#16324f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M77 24 h18" stroke="#16324f" stroke-width="7" stroke-linecap="round"/>
+<text x="154" y="43" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" fill="#16324f">TinyTrail</text>
+<text x="154" y="70" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#ff7a1a">Bikes</text>
+</svg>

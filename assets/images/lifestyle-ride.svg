@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+<title>Child riding a bicycle illustration</title><desc>Happy child riding a bike on a sunny neighborhood path</desc>
+<rect width="1100" height="760" rx="44" fill="#dff3ff"/>
+<circle cx="870" cy="120" r="70" fill="#ffd76a"/>
+<path d="M0 610 C180 540 320 640 510 590 C700 540 850 590 1100 520 L1100 760 L0 760 Z" fill="#83cf8f"/>
+<path d="M120 690 C330 590 630 620 980 665" fill="none" stroke="#f6cf9c" stroke-width="82" stroke-linecap="round"/>
+<circle cx="410" cy="520" r="72" fill="#fff" stroke="#16324f" stroke-width="18"/>
+<circle cx="690" cy="520" r="72" fill="#fff" stroke="#16324f" stroke-width="18"/>
+<path d="M410 520 L505 395 L600 520 L410 520 M505 395 L635 395 L690 520 M600 520 L635 395" fill="none" stroke="#ff7a1a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="545" cy="275" r="48" fill="#8b5a3c"/>
+<path d="M505 330 C550 375 585 380 625 330" fill="none" stroke="#16324f" stroke-width="24" stroke-linecap="round"/>
+<path d="M485 250 C525 205 595 215 615 265" fill="#ff7a1a"/>
+<path d="M535 320 L510 395 M565 322 L620 395" stroke="#2f8fbd" stroke-width="22" stroke-linecap="round"/>
+<path d="M485 375 L445 430 M612 374 L650 430" stroke="#8b5a3c" stroke-width="18" stroke-linecap="round"/>
+<text x="550" y="100" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" fill="#16324f">First Rides Made Simple</text>
+</svg>

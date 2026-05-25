@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shop | TinyTrail Bikes</title>
+  <meta name="description" content="Pick a bike size, review the details, and add it to your cart. Premium children’s bikes.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <nav class="navbar">
+    <a class="logo" href="index.html" aria-label="TinyTrail Bikes home">
+      <img src="assets/images/logo.svg" alt="TinyTrail Bikes">
+    </a>
+    <button class="menu-button" data-menu-button>Menu</button>
+    <div class="navlinks" data-navlinks>
+      <a href="index.html">Home</a>
+      <a href="shop.html">Shop</a>
+      <a href="about.html">About</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+      <a class="cart-link" href="cart.html">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:2px;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
+        Cart (<span data-cart-count>0</span>)
+      </a>
+    </div>
+  </nav>
+</header>
+<main>
+  <section class="page-title scroll-reveal">
+    <p class="eyebrow">Store Collection</p>
+    <h1>Find the Perfect Bike</h1>
+    <p style="max-width: 600px; margin: 0 auto;">Select the size that matches your child's age group. Each bike features safety-first engineering, lightweight frame designs, and durable training options.</p>
+  </section>
+  
+  <section class="container shop-layout">
+    <aside class="card filter-box scroll-reveal">
+      <h3>Size Helper Guide</h3>
+      <p style="font-size:14px; margin-bottom: 16px;">We design bikes based on kids' age brackets to ensure safety and comfort during rides:</p>
+      
+      <div class="size-guide-item">
+        <strong>12 Inch Frame</strong>
+        <span class="badge" style="margin: 0; padding: 4px 10px; font-size:11px;">Ages 2-4</span>
+      </div>
+      <div class="size-guide-item">
+        <strong>16 Inch Frame</strong>
+        <span class="badge" style="margin: 0; padding: 4px 10px; font-size:11px;">Ages 4-6</span>
+      </div>
+      <div class="size-guide-item">
+        <strong>20 Inch Frame</strong>
+        <span class="badge" style="margin: 0; padding: 4px 10px; font-size:11px;">Ages 6-9</span>
+      </div>
+      
+      <p class="small" style="margin-top: 20px; line-height: 1.5; font-size:12px;">
+        💡 <strong>Note:</strong> Be sure to measure your child's height and test balance to choose the ideal fit.
+      </p>
+    </aside>
+    
+    <div class="grid two" id="shop-products"></div>
+  </section>
+</main>
+<footer class="footer">
+  <div class="container">
+    <div>
+      <h3 style="font-size: 24px;">TinyTrail Bikes</h3>
+      <p>Premium children’s bikes built for first rides, safe practice, and happy family moments.</p>
+    </div>
+    <div>
+      <h3>Shop</h3>
+      <a href="shop.html">All Bikes</a>
+      <a href="cart.html">Cart</a>
+      <a href="checkout.html">Checkout</a>
+    </div>
+    <div>
+      <h3>Help</h3>
+      <a href="faq.html">FAQ</a>
+      <a href="policies.html">Shipping and Returns</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </div>
+</footer>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/products.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
